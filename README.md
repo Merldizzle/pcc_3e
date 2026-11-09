@@ -16,19 +16,28 @@ This repository documents my learning journey as I work through the exercises, n
 pcc_3e/
 ├── README.md
 ├── .gitignore
-├── notes/
-│   └── README.md
-├── exercises/
-│   └── README.md
-├── projects/
-│   └── README.md
 ├── chapters/
-│   └── README.md
+│   ├── README.md
+│   ├── chapter_01/
+│   │   ├── README.md
+│   │   ├── notes/
+│   │   │   └── README.md
+│   │   ├── exercises/
+│   │   │   └── README.md
+│   │   └── projects/
+│   │       └── README.md
+│   └── chapter_02/
+│       ├── README.md
+│       ├── notes/
+│       ├── exercises/
+│       └── projects/
 └── .git/
 ```
 
+Each chapter folder is the main organizing unit, and its notes, exercises, and projects are kept together so the material stays aligned with the book.
+
 ## Current Status
-In progress — working through the book exercises and related projects.
+In progress — working through the book chapter by chapter.
 
 ## Notes
-This repo is intended to be a personal learning log and workspace for Python practice as I move through the material.
+This repo is intended to be a personal learning log and workspace for Python practice, organized around each chapter in the book.
