@@ -2,18 +2,33 @@
 
 Working through Python Crash Course, 3rd Edition.
 
-This repository tracks my progress as I complete exercises, projects, and notes from the book.
+This repository documents my learning journey as I work through the exercises, notes, and projects from the book. It is organized to keep Python practice, project work, and study notes easy to follow and review.
 
 ## Goals
-- Learn Python fundamentals
-- Practice problem solving
-- Build small projects and exercises
-- Document my progress
+- Strengthen Python fundamentals
+- Practice problem solving and debugging
+- Complete exercises from the book
+- Build small projects and keep notes organized
+- Track progress over time
 
-## Repository Contents
-- Exercise solutions
-- Notes and reflections
-- Project work
+## Repository Structure
+```text
+pcc_3e/
+├── README.md
+├── .gitignore
+├── notes/
+│   └── README.md
+├── exercises/
+│   └── README.md
+├── projects/
+│   └── README.md
+├── chapters/
+│   └── README.md
+└── .git/
+```
 
-## Status
-In progress.
+## Current Status
+In progress — working through the book exercises and related projects.
+
+## Notes
+This repo is intended to be a personal learning log and workspace for Python practice as I move through the material.
