@@ -26,7 +26,12 @@ pcc_3e/
 │   │   │   └── README.md
 │   │   └── projects/
 │   │       └── README.md
-│   └── chapter_02/
+│   ├── chapter_02/
+│   │   ├── README.md
+│   │   ├── notes/
+│   │   ├── exercises/
+│   │   └── projects/
+│   └── chapter_04/
 │       ├── README.md
 │       ├── notes/
 │       ├── exercises/
@@ -37,7 +42,7 @@ pcc_3e/
 Each chapter folder is the main organizing unit, and its notes, exercises, and projects are kept together so the material stays aligned with the book.
 
 ## Current Status
-In progress — working through the book chapter by chapter.
+In progress — currently working through Chapter 4.
 
 ## Notes
 This repo is intended to be a personal learning log and workspace for Python practice, organized around each chapter in the book.
